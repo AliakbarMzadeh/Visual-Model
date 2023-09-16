@@ -1,2 +1,4 @@
 # Visual-Model
-Sparse representation of natural images that matches the receptive fields of primary cortex simple cells.
+
+Summary:
+This project focuses on creating a sparse representation of natural images, aligning with the receptive fields of simple cells in the primary visual cortex, highlighting the neural encoding of visual stimuli.
